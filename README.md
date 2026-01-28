@@ -90,6 +90,9 @@ SQLite-Project/
 
 ```
 
+## 🖼️ Visulumbre da janela Tkinter:
+<img width="1890" height="997" alt="Captura de tela 2026-01-23 200400" src="https://github.com/user-attachments/assets/325b72b2-d09b-4117-ae87-3718d1428e18" />
+
 
 ## 📃Referências da Web:
 
