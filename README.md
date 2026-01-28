@@ -1,5 +1,5 @@
 
-#  🔍Sistema de Gerenciamento de Cadastro de Produtos com SQLite 🎲📊
+#  🔍 Sistema de Gerenciamento de Cadastro de Produtos com SQLite 🎲📊
 
 # 🪶Descrição do Projeto
 Projeto desenvolvido durante  curso da Udemy [Engenharia de Dados com Python](https://www.udemy.com/course/engenharia-de-dados-com-python/?kw=engenharia+de+dados+com+python&src=sac&couponCode=ACCAGE0923), pelo Professor Edmilson Alves .O objetivo desse projeto foi desenvolver um sistema para gerenciamento de cadastro de  produtos,no qual criar uma interface visual interativa, via python com a biblioteca **tkinter** para que o usuário possa se interagir inserindo os dados  e os cadastrando na janela para que possam ser salvos no banco de dados  **SQLite** , a partir de uma  conexão **jupyter python**.Além do  mais, com os dados armazendos no banco , também podemos gerar um arquivo feito em excel com as mesmas informações.
